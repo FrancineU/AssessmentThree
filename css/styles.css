@@ -1,0 +1,31 @@
+.media-body:hover{
+    transform: scale(1.05);
+ box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+img{
+    display: none;
+}
+h4{
+    color:blue;
+   
+}
+.card1{
+    display:inline-flex;
+  margin-left: 2%;
+  left: 20%;
+
+}
+.card2{
+    display:inline-flex;
+    margin-left: 2%;
+    left: 20%;
+}
+.col-md-4 {
+    display: inline-block;
+}
+.col-md-8{
+   height: 20%;
+}
+.form-group{
+    justify-content: center;
+}
